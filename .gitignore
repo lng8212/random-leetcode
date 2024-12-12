@@ -6,6 +6,9 @@ out/
 ### Kotlin ###
 .kotlin
 .idea
+Unnamed.run.xml
+*.class
+*.kotlin_module
 ### Eclipse ###
 .apt_generated
 .classpath
