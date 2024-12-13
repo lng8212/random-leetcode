@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/number-of-1-bits/description/
 fun hammingWeight(n: Int): Int {
     var divided = n
     var result = 0

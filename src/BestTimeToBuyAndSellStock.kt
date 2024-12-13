@@ -1,5 +1,6 @@
 import kotlin.math.max
 import kotlin.math.min
+//https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
 fun maxProfit(prices: IntArray): Int {
     var minValue: Int = Int.MAX_VALUE

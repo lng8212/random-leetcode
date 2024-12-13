@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/contains-duplicate/description/
 fun containsDuplicate(nums: IntArray): Boolean {
     val hashMap = HashMap<Int, Int>()
     for(item in nums){

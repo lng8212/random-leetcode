@@ -1,5 +1,4 @@
-
-
+//https://leetcode.com/problems/two-sum/description/
 fun twoSum(nums: IntArray, target: Int): IntArray {
     val map = HashMap<Int,Int>()
     for (i in nums.indices) {

@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/missing-number/description/
 fun missingNumber(nums: IntArray): Int {
     var xor = 0
     for (i in nums){

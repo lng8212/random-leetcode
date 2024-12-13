@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/product-of-array-except-self/description/
 fun productExceptSelf(nums: IntArray): IntArray {
     val ans = IntArray(nums.size)
     var mul = 1

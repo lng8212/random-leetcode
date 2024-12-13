@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/maximum-subarray/
 fun maxSubArray(nums: IntArray): Int {
     if (nums.size == 1) return nums[0]
     var current = nums[0]

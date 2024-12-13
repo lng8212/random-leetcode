@@ -1,3 +1,4 @@
+//https://leetcode.com/problems/maximum-product-subarray/description/
 fun maxProduct(nums: IntArray): Int {
     if (nums.size == 1) return nums[0]
     var currentMax = nums[0]
